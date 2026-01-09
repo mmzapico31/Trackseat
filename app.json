@@ -16,7 +16,9 @@
         "NSLocationAlwaysAndWhenInUseUsageDescription": "Your location is tracked to show your position to the driver.",
         "NSPhotoLibraryUsageDescription": "Allow TrackSeat to access photos for profile picture.",
         "NSCameraUsageDescription": "Allow TrackSeat to use camera.",
-        "UIBackgroundModes": ["location"]
+        "UIBackgroundModes": [
+          "location"
+        ]
       }
     },
     "android": {
@@ -24,7 +26,7 @@
       "googleServicesFile": "./google-services.json",
       "newArchEnabled": true,
       "userInterfaceStyle": "light",
-      "versionCode": 30,
+      "versionCode": 31,
       "adaptiveIcon": {
         "foregroundImage": "./assets/applogo.png",
         "backgroundColor": "#ffffff"
@@ -67,7 +69,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "aa793141-de13-4d0d-89c5-fbf64aa3cbe3"
+        "projectId": "7d6b1e42-7c20-4ec7-8e60-bdef47ed08b4"
       }
     }
   }
